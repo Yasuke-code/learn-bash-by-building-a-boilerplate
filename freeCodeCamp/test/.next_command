@@ -144,3 +144,4 @@ rm font
 rd font
 rf font
 mkdir fonts
+ls --color=auto
