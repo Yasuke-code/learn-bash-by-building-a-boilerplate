@@ -111,3 +111,4 @@ ls --color=auto
 __vsc_prompt_cmd_original
 clear
 mkdir images
+ls --color=auto
