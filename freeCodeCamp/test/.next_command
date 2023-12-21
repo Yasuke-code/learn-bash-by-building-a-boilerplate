@@ -89,3 +89,7 @@ ls --color=auto help
 sl --help
 ls --color=auto --help
 ls --color=auto -a
+sdcd ..
+cd ..
+cd website
+cd .
