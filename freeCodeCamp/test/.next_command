@@ -104,3 +104,5 @@ touch menlo.font
 ls --color=auto
 CodeAlly.svg
 touch CodeAlly.svg
+__vsc_prompt_cmd_original
+touch CodeRoad.svg
