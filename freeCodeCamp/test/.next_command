@@ -77,3 +77,5 @@ __vsc_prompt_cmd_original
 cd website
 __vsc_prompt_cmd_original
 ls --color=auto
+pwd
+echo hello website
