@@ -232,3 +232,9 @@ ls --color=auto
 mv header.png client/assets/images
 find header.png
 find -name header.png
+mv footer.jpeg client/assets/images
+mv footer.png client/assets/images
+touch footer.jpeg
+ls --color=auto
+mv footer.jpeg client/assets/images
+find -name footer.jpeg
