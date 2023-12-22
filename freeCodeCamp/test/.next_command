@@ -299,3 +299,14 @@ touch client/assets/fonts/lato-light.ttf
 find client/asstes/fonts
 find client/assets/fonts
 find
+ls --color=auto
+find font
+cd dont
+cd fonts
+__vsc_prompt_cmd_original
+ls --color=auto
+cd ..
+clear
+rm --h
+rm fonts -r
+rm --help
