@@ -310,3 +310,5 @@ clear
 rm --h
 rm fonts -r
 rm --help
+re fonts -r
+rm -r fonts
