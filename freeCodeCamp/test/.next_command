@@ -280,3 +280,4 @@ ls --color=auto
 rm footer.png
 cd ..
 rmdir images
+ls --color=auto
