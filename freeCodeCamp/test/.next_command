@@ -264,3 +264,12 @@ find -name footer.jpeg
 find
 rmdit images
 rmdir images
+find -name images
+cd images
+ls --color=auto
+cd ..
+mv images/background.jpg client/assets/images
+cd client/assets/images
+ls --color=auto
+cd ../../..
+rm images/background.jpg
