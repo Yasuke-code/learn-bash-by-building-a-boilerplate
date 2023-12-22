@@ -174,3 +174,12 @@ mkdir images
 cd images
 find
 touch background.jpg
+cd ....
+cd..
+cd ..
+cd ..
+cd ..
+cd client
+cd assets
+cd images
+cd ../../..
