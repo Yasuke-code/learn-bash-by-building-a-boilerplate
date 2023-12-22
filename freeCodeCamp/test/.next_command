@@ -172,3 +172,5 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+find
+touch background.jpg
