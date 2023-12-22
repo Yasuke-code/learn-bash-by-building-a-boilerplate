@@ -212,3 +212,21 @@ cd images
 find -name images
 cd ../../..
 find -name images
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+cd assets/client/assets
+__vsc_prompt_cmd_original
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+cd client
+cd assets
+cd images
+ls --color=auto
+mv header.png ../../..
+cd ../../..
+ls --color=auto
+mv header.png client/assets/images
