@@ -262,3 +262,5 @@ fine footer.jpeg
 find-name footer.jpeg
 find -name footer.jpeg
 find
+rmdit images
+rmdir images
