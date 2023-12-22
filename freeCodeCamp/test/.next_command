@@ -340,3 +340,7 @@ copy
 --h
 -h
 cp --help
+cp -r website-boilerplate
+cp -r website-boilerplate .
+ls --color=auto
+cp -r website-boilerplate toms-website
