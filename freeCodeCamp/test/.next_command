@@ -334,3 +334,5 @@ more README.md
 cd ..
 ls --color=auto
 mv website website-boilerplate
+__vsc_prompt_cmd_original
+ls --color=auto
